@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
           </p>
           <div className="flex items-center mt-4 sm:mt-0">
             <a
-              href="mailto:support@ainest.solutions"
+              href="mailto:info@ainest.solutions"
               aria-label="Email"
               className="text-slate-500 hover:text-emerald-400 transition-colors flex items-center space-x-2"
             >
@@ -29,7 +29,7 @@ const Footer: React.FC = () => {
                   d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
                 />
               </svg>
-              <span className="text-sm">support@ainest.solutions</span>
+              <span className="text-sm">info@ainest.solutions</span>
             </a>
           </div>
         </div>
